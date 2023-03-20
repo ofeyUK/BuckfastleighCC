@@ -162,7 +162,7 @@ h6 {
 td {
   font-size: var(--small);
   padding: 10px;
-  border: 1px solid black;
+  /*border: 1px solid black;*/
 }
 
 .franklin-content blockquote {
