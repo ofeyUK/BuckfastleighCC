@@ -18,7 +18,7 @@ website_descr = "The online home of Buckfastleigh Cricket Club"
 website_url   = "https://buckfastleighcc.uk"
 +++
 
-@def prepath = "BuckfastleighCC"
+@def prepath = 
 
 <!--
 Add here global latex commands to use throughout your pages.
