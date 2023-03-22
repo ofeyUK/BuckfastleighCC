@@ -15,8 +15,10 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "Buckfastleigh Cricket CLub"
 website_descr = "The online home of Buckfastleigh Cricket Club"
-website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
+website_url   = "https://buckfastleighcc.uk"
 +++
+
+@def prepath =
 
 <!--
 Add here global latex commands to use throughout your pages.
