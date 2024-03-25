@@ -1,0 +1,1 @@
+\tableinput{}{/assets/2024-fixtures.csv}
