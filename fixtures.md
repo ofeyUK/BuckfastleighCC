@@ -1,1 +1,1 @@
-\tableinput{}{/assets/2024-fixtures.csv}
+\tableinput{}{/assets/2025-fixtures.csv}
